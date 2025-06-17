@@ -1,39 +1,41 @@
-🔬 Research Thesis: Thermofluid Characterization of a High-Performance Desktop PC
-🚀 Project Overview
-This research project presents an in-depth thermofluid analysis of a high-performance desktop computing system engineered with a rigid copper hardline, single-loop liquid cooling architecture. The system was built to accommodate and thermally stabilize the AMD Ryzen 9 9950X3D CPU and the NVIDIA RTX 5090 Waterforce WB GPU within the constraints of a mid-tower enclosure — with a focus on spatial efficiency, sustained thermal headroom, and performance stability under full-load conditions.
+## 🔬 Research Thesis: Thermofluid Characterization of a High-Performance Desktop PC
 
-🛠️ Key Components & Methodology
-Full-system custom build with copper tubing
+### 🚀 Project Overview
 
-Inline flow rate and temperature sensors
+This research project presents an in-depth thermofluid analysis of a high-performance desktop computing system engineered with a **rigid copper hardline, single-loop liquid cooling architecture**. The system was built to thermally stabilize the **AMD Ryzen 9 9950X3D** CPU and the **NVIDIA RTX 5090 Waterforce WB GPU** within a mid-tower enclosure — emphasizing **spatial efficiency, thermal reliability**, and **high-load performance equilibrium**.
 
-FLIR thermographic imaging
+### 🛠️ Key Components & Methodology
 
-Synthetic and real-world workloads:
-Cinebench R23, 3DMark, PCMark 10, and continuous gaming benchmarks
+- Custom copper tubing loop with Mayhems Hades+ and Inhibitor+ additives
+- Inline temperature and flow rate sensors
+- FLIR thermographic imaging
+- Dual 360mm radiators with push-pull Noctua NF-F12 iPPC 3000 PWM fans
+- Synthetic workloads and gaming stress tests:
+  - Cinebench R23
+  - 3DMark (Steel Nomad, Port Royal)
+  - PCMark 10
+  - Extended gaming and idle scenarios
+- Controlled ambient conditions, including room temperature and humidity tracking
 
-Dual 360mm high-pressure radiators with push-pull fan configurations
+### 📊 Key Findings
 
-Controlled ambient testing conditions
+- **Stable thermal equilibrium** across all workload categories
+- **Zero observed thermal throttling** on CPU or GPU
+- **Even loop-wide heat distribution** confirmed via thermal imaging
+- Long-term performance maintained within optimal thermal margins
 
-🔍 Objective: Characterize heat distribution and performance of a copper hardline loop under extended workloads, and assess system equilibrium, throttling behavior, and loop responsiveness.
+### 🧪 Future Work
 
-📊 Findings
-Stable thermal equilibrium under all tested scenarios
+- Implementing **direct-die cooling** by delidding the CPU and eliminating the IHS
+- Evaluating gains in transient response and thermal conductivity under burst workloads
 
-No CPU/GPU throttling observed, even during peak loads
+### 📄 Full Thesis PDF
 
-Even thermal distribution validated with FLIR imaging
+**Title**:  
+*Thermofluid Characterization and Performance Evaluation of a Copper Hardline-Cooled High-Performance Computing System*
 
-High system reliability and noise-normalized cooling efficiency
+**Status**:  
+Endorsed for publication; under review at *Elsevier’s Applied Thermal Engineering*
 
-🧪 Ongoing Work
-Future experimentation will explore direct-die cooling by removing the integrated heat spreader (IHS), aiming to reduce thermal resistance and improve transient heat response during intensive workloads.
+📥 **[View Full Research Thesis (PDF)](https://github.com/merberenson/Thermofluid-Characterization-and-Performance-of-a-PC/releases/download/thesis/Berenson_Thermal_PC_Thesis.pdf)**
 
-📄 Full Thesis Download
-Manuscript Title:
-Thermofluid Characterization and Performance Evaluation of a Copper Hardline-Cooled High-Performance Computing System
-
-This 85-page thesis has been officially endorsed for publication and is under peer review with Elsevier's Applied Thermal Engineering journal.
-
-📥 Download Full Thesis (PDF)
