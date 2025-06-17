@@ -5,3 +5,5 @@ The project integrated a full system build with experimental analysis, using inl
 My manuscript, titled “Thermofluid Characterization and Performance Evaluation of a Copper Hardline-Cooled High-Performance Computing System”, has been endorsed by my university for publication and is currently being prepared for peer review at Elsevier’s Applied Thermal Engineering journal.
 
 Future work will include a comparative analysis of direct-die cooling, eliminating the integrated heat spreader to improve thermal conductivity and transient response characteristics under intensive computational workloads.
+
+📄 [View Full Research Thesis (PDF)](https://github.com/merberenson/Thermofluid-Characterization-and-Performance-of-a-PC/releases/download/thesis/Berenson_Thermal_PC_Thesis.pdf)
